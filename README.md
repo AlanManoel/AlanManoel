@@ -12,7 +12,6 @@
   </ul>
 </details>
 
-
 <details>
   <summary>Minhas Estátisticas</summary>
   <table>
@@ -49,5 +48,3 @@ em contato comigo!</p>
     <img src="https://img.shields.io/badge/Gmail-567EAD?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-  
