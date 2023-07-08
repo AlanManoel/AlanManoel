@@ -51,3 +51,5 @@ em contato comigo!</p>
     <img src="https://img.shields.io/badge/Gmail-567EAD?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71CBE1&height=120&section=footer"/>
