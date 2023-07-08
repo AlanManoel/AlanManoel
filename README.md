@@ -4,7 +4,7 @@
 
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&lines=Olá?,+Me+chamo+Alan+Manoel!;Tenho+19+anos.;Graduando+Ánalise+e+Desenvolvimento+de+Sistemas.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&duration=2300&lines=Olá?,+Me+chamo+Alan+Manoel!;Tenho+19+anos.;Graduando+Ánalise+e+Desenvolvimento+de+Sistemas.)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlanManoel&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0C3D87&text_color=fff&bg_color=5BA8BB" alt="Alan Manoel estatisticas"/> 
