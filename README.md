@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
 <img src="./images/AlanManoel.png", width="100%">
 </div>
 
@@ -46,4 +46,8 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71CBE1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71CBE1&height=120&section=footer"/> -->
+
+<img align='right' src='./images/Mobile.png'>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&duration=2300&lines=Olá?,+seja+bem+vindo!)](https://git.io/typing-svg)
