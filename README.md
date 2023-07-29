@@ -49,7 +49,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71CBE1&height=120&section=footer"/> -->
 
 <div>
-<img align='right' src='./images/Mobile.png'>
+<img align='right' src='./images/AlanManoelIcon.png'>
 </div>
 
 <br>
