@@ -48,6 +48,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71CBE1&height=120&section=footer"/> -->
 
+<div>
 <img align='right' src='./images/Mobile.png'>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=28&center=true&vCenter=true&width=1000&duration=2300&lines=Olá?,+seja+bem+vindo!)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=FFFFFF&repeat=false&lines=Ol%C3%A1%3F+Seja+bem+vindo!)](https://git.io/typing-svg)
