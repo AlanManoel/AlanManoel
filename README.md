@@ -45,7 +45,7 @@
   <a href="mailto:alanmanoel517@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-373737?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/alan-manoel-b80130286/">
     <img src="https://img.shields.io/badge/LinkedIn-373737?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
