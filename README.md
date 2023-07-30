@@ -34,7 +34,8 @@
   </div>
 </details>
 
-## Entre em contato comigo para bater um papo ou oferecer serviços profissionais:
+#### Entre em contato comigo para bater um papo ou oferecer serviços profissionais:
+<hr>
 <div>
   <a href="https://www.instagram.com/alan.manoel517/">
     <img src="https://img.shields.io/badge/Instagram-373737?style=for-the-badge&logo=instagram&logoColor=white">
