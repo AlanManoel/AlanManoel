@@ -3,7 +3,7 @@
 <img align='right' src='./images/AlanManoelIcon.png'>
 </div>
 
-<br> </br>
+</br> </br> </br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=apple+system&size=30&duration=4000&pause=1000&color=FFFFFF&repeat=false&lines=Ol%C3%A1%3F+Seja+bem+vindo!)](https://git.io/typing-svg)
 
