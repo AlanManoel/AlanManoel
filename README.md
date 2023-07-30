@@ -26,8 +26,8 @@
 <details> 
   <summary><h3>Minhas estatísticas</h1></summary>
   <div align="center">  
-    <img width="35%" height="150px" src="https://github-readme-stats.vercel.app/api?username=AlanManoel&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=373737" alt="Alan Manoel estatisticas"/> 
-    <img width="25%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanManoel&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=373737"/>
+    <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=AlanManoel&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=373737" alt="Alan Manoel estatisticas"/> 
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanManoel&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=373737"/>
   </div>
 </details>
 
