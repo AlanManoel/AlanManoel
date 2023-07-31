@@ -1,6 +1,7 @@
 
 <div>
-<img align='right' src='./images/AlanManoelIcon.png'>
+  <img align='right' src='./images/AlanManoelIcon.png'>
+  <br>
 </div>
 
 </br> </br> </br>
