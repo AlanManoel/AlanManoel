@@ -1,12 +1,15 @@
-
-<div>
+<div >
   <img align='right' src='./images/AlanManoelIcon.png'>
   <br>
 </div>
 
 </br> </br> </br>
+<p style="margin-top: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=apple+system&size=30&duration=4000&pause=1000&color=DBDBDB&repeat=false&lines=Ol%C3%A1%3F+Seja+bem+vindo!" alt="Typing SVG">
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=apple+system&size=30&duration=4000&pause=1000&color=DBDBDB&repeat=false&lines=Ol%C3%A1%3F+Seja+bem+vindo!)](https://git.io/typing-svg)
 
 ### Conhecimento:
 <div>
