@@ -29,10 +29,8 @@
 
 <details> 
   <summary><h3>Minhas estatísticas</h1></summary>
-  <div>  
     <img  width='40%'  src="https://github-readme-stats.vercel.app/api?username=AlanManoel&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=373737" alt="Alan Manoel estatisticas"/> 
     <img width='40%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanManoel&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=373737"/>
-  </div>
 </details>
 
 #### Entre em contato comigo para bater um papo ou oferecer serviços profissionais:
