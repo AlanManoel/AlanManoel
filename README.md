@@ -30,8 +30,8 @@
 
 <details> 
   <summary><h3>Minhas estatísticas</h1></summary>
-    <img  width='40%'  src="https://github-readme-stats.vercel.app/api?username=AlanManoel&show_icons=true&theme=transparent&title_color=fff&icon_color=fff&text_color=fff"/> 
-    <img width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent&title_color=fff&icon_color=fff&text_color=fff">
+    <img  width='40%'  src="https://github-readme-stats.vercel.app/api?username=AlanManoel&show_icons=true&bg_color=1A1A1A&title_color=fff&icon_color=fff&text_color=fff"/> 
+    <img width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=1A1A1A&title_color=fff&icon_color=fff&text_color=fff">
 </details>
 
 #### Entre em contato comigo para bater um papo ou oferecer serviços profissionais:
