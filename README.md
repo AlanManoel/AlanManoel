@@ -16,9 +16,9 @@ console.log("Seja bem-vindo, Devs!")
         "⚽ Jogar bola",
     ],
     "contatos": [
-        "linkedin": "🔗 [LinkedIn](https://www.linkedin.com/in/alan-manoel/)",
-        "email": "📧 [Email](mailto:alanmanoel517@gmail.com)",
-        "whatsapp": "📱 (86) 99457-5010](https://wa.me/5586994575010)"
+        "linkedin": "🔗 https://www.linkedin.com/in/alan-manoel/",
+        "email": "📧 alanmanoel517@gmail.com",
+        "whatsapp": "📱 (86) 99457-5010]"
     ],
 }
 ````
