@@ -1,3 +1,7 @@
+````javascript
+console.log("Seja bem-vindo, Devs!")
+````
+
 ```Json
 {
     "nome": "👤 Alan Manoel",
@@ -12,9 +16,10 @@
         "⚽ Jogar bola",
     ],
     "contatos": [
-        "linkedin": "🔗 (https://www.linkedin.com/in/alan-manoel/)",
-        "github": "🐙 (https://github.com/AlanManoel/AlanManoel)",
+        "linkedin": "🔗 [LinkedIn](https://www.linkedin.com/in/alan-manoel/)",
+        "github": "🐙 [GitHub](https://github.com/AlanManoel/AlanManoel)",
         "email": "📧 alanmanoel517@gmail.com",
         "whatsapp": "📱 (86) 99457-5010",
-    ]
+    ],
 }
+````
