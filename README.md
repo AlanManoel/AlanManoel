@@ -15,11 +15,10 @@ console.log("Seja bem-vindo, Devs!")
         "💻 Criar projetos pessoais",
         "⚽ Jogar bola",
     ],
-    "contatos": {
+    "contatos": [
         "linkedin": "🔗 [LinkedIn](https://www.linkedin.com/in/alan-manoel/)",
-        "github": "🐙 [GitHub](https://github.com/AlanManoel/AlanManoel)",
         "email": "📧 [Email](mailto:alanmanoel517@gmail.com)",
-        "whatsapp": "📱 [(86) 99457-5010](https://wa.me/5586994575010)"
-    }
+        "whatsapp": "📱 (86) 99457-5010](https://wa.me/5586994575010)"
+    ],
 }
 ````
