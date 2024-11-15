@@ -18,7 +18,7 @@ console.log("Seja bem-vindo, Devs!")
     "contatos": [
         "linkedin": "🔗 https://www.linkedin.com/in/alan-manoel/",
         "email": "📧 alanmanoel517@gmail.com",
-        "whatsapp": "📱 (86) 99457-5010]"
+        "whatsapp": "📱 (86) 99457-5010"
     ],
 }
 ````
