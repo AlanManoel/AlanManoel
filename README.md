@@ -6,8 +6,7 @@ console.log("Seja bem-vindo, Devs!")
 {
     "nome": "👤 Alan Manoel",
     "formacao": "🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPI",
-    "objetivo_profissional": "💼 Desenvolver soluções tecnológicas inovadoras e aprimorar habilidades
-    em desenvolvimento full-stack e UI/UX design.",
+    "objetivo_profissional": "💼 Desenvolver soluções tecnológicas inovadoras e aprimorar habilidades\n em desenvolvimento full-stack e UI/UX design.",
     "tecnologias": [
         "💻 JavaScript","☕ Java","🐍 Python","🟢 Node.js","🗃️ SQL","🎨 Figma","🌐 HTML" "🎨 CSS","⚛️ React.js"
     ],
