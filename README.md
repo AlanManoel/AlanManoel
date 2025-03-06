@@ -5,7 +5,7 @@ console.log("Seja bem-vindo, Devs!")
 ```Json
 {
     "nome": "👤 Alan Manoel",
-    "formacao": "🎓 Acadêmico em Análise e Desenvolvimento de Sistemas",
+    "formacao": "🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - IFPI",
     "objetivo_profissional": "💼 Desenvolver soluções tecnológicas inovadoras e aprimorar habilidades em desenvolvimento full-stack e UI/UX design.",
     "tecnologias": [
         "💻 JavaScript","☕ Java","🐍 Python","🟢 Node.js","🗃️ SQL","🎨 Figma","🌐 HTML" "🎨 CSS","⚛️ React.js"
